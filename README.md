@@ -1,3 +1,7 @@
+---
+description: Installation guide for MCsniperPY
+---
+
 # Installation
 
 ## MCsniperPY rewrite installation
