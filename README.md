@@ -6,13 +6,13 @@ description: Installation guide for MCsniperPY
 
 ## MCsniperPY rewrite installation
 
-{% hint style="danger" %}
-This does not function yet!
+{% hint style="success" %}
+This functions now! \(It used to not\)
 {% endhint %}
 
 ```text
 # Run these commands to install the sniper
-pip install -U mcsniperpy
+pip install -U mcsniperpy  # If you're on unix: pip3 install -U mcsniperpy
 mkdir sniping
 cd sniping
 mcsniperpy init
