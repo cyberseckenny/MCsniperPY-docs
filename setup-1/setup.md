@@ -24,5 +24,9 @@ Before you begin, make sure you have Python and Pip installed. To check if you h
 python3 -m pip install mcsniperpy
 ```
 
+If you get a message saying something like `WARNING: The script mcsniperpy is installed in '/home/$USER/.local/bin' which is not on PATH.` then run the command below. If that fails, try replacing `bashrc` with `zshrc`.
 
+```text
+echo "PATH=$PATH:/home/$USER/.local/bin" >> ~/.bashrc && source ~/.bashrc
+```
 
