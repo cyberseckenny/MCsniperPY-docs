@@ -2,9 +2,13 @@
 
 * [MCsniperPY](README.md)
 
-## Setup <a id="setup-1"></a>
+## Setup
 
-* [Installing the sniper](setup-1/setup.md)
-* [Initialization](setup-1/initialization.md)
-* [Sniping](setup-1/sniping.md)
+* [Installing the sniper](setup/install.md)
+* [Initialization](setup/initialization.md)
+* [Sniping](setup/sniping.md)
+
+## More Information
+
+* [Offset](more-information/offset.md)
 
