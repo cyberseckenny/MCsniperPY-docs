@@ -10,7 +10,7 @@ This is the installation for the **recode**, not the main version of the sniper.
 
 ## MCsniperPY Installation \(Windows\)
 
-Before you begin, make sure you have Python and Pip installed. To check if you have these installed run `py -V` and `py -m pip -V`. If you don't have these installed go to the [python website](https://www.python.org/downloads/) and [download](https://www.python.org/downloads/) the latest version of Python. After that you can run this command to install MCsniperPY.
+Before you begin, make sure you have Python and Pip installed. To check if you have these installed run `py -V` and `py -m pip -V`. If you don't have these installed go to the [python website](https://www.python.org/downloads/) and [download](https://www.python.org/downloads/) the latest version of Python. After that you can run this command in cmd to install MCsniperPY.
 
 ```
 py -m pip install mcsniperpy
