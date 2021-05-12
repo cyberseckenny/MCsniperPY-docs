@@ -16,7 +16,7 @@ Before you begin, make sure you have Python and Pip installed. To check if you h
 py -m pip install mcsniperpy
 ```
 
-Many windows users will have to run `py -m mcsniperpy` instead if the `mcsniperpy` command in the future sections of these docs. you'll want to **always do this or it won't work.**
+Many windows users will have to run `py -m mcsniperpy` instead of the `mcsniperpy` command in the future sections of these docs. you'll want to **always do this or it won't work.**
 
 ## MCsniperPY Installation \(Linux and MacOS\)
 
