@@ -11,3 +11,4 @@ description: >-
 MCsniperPY is an open source Minecraft name sniper written in python by Kqzz\#0001 \(and contributors\) to help you claim Minecraft names as fast as possible!
 
 > Check out SETUP tab on the left for instructions on setting up MCsniperPY
+

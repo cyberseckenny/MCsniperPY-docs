@@ -6,7 +6,7 @@ description: Start sniping with MCsniperPY!
 
 ## Pre-snipe
 
-Before you start sniping, add your accounts to the accounts.txt file. Just open the accounts.txt file through your favorite program such as notepad or nano. The format for accounts.txt should be in the file, but in case it's not it is show below in the code block.
+Before you start sniping, add your accounts to the accounts.txt file. Just open the accounts.txt file through your favorite program such as notepad or nano. The format for accounts.txt should be in the file, but in case it's not it is shown below in the code block.
 
 {% hint style="info" %}
 accounts.txt is located in the directory you initialized mcsniperpy in \(see previous page\). 
