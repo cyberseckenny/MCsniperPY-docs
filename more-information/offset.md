@@ -6,7 +6,9 @@ description: What is offset in MCsniperPY?
 
 ## What is offset?
 
-Offset is simply how early _MCsniperPY sends requests_.  OFfset is measured in milliseconds. This is used to compensate for API lag and ping.
+Offset is simply how early _MCsniperPY sends requests_ and is measured in milliseconds. Because of factors like API lag and ping, sent requests are not received instantly by Mojang's API. Offset is used to compensate for this delay, and fine-tuning your offset is **crucial** to becoming a successful sniper. 
+
+Usage of a VPS can be very beneficial when sniping. When compared to your personal computer, VPSes have a much stabler connection and (typically) lower ping. The better your connection, the easier it is to calculate an accurate offset. If you are interested in a VPS, [Digital Ocean](https://www.digitalocean.com/) and [Vultr](https://www.vultr.com/) are two recommended options. Additionally, Kqzz has created a [video](https://www.youtube.com/watch?v=-y2ucB6FYq8) of how to install MCSniperPY onto a VPS running `Ubunutu 20.04`. Make sure to look in the description for two free VPS referral links!
 
 {% hint style="info" %}
 Offset is the new name for "Custom Delay" from the old MCsniperPY version.
